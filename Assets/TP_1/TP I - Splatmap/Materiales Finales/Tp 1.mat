@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Shirt:
-        m_Texture: {fileID: 2800000, guid: 8b3270105502c9a46831cfc30eba5fea, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06e10db5f8a24cd41b95fa6ced67871c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Short:
@@ -28,11 +28,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Shorts:
-        m_Texture: {fileID: 2800000, guid: 8b3270105502c9a46831cfc30eba5fea, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06e10db5f8a24cd41b95fa6ced67871c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Socks:
-        m_Texture: {fileID: 2800000, guid: 8b3270105502c9a46831cfc30eba5fea, type: 3}
+        m_Texture: {fileID: 2800000, guid: e11b7ee75e75bd4478dd9e03bdb8695a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Splatmap:
@@ -46,6 +46,6 @@ Material:
     m_Floats:
     - __dirty: 0
     m_Colors:
-    - _ColorA: {r: 0, g: 0, b: 0, a: 1}
-    - _ColorB: {r: 0.6870856, g: 0.24964403, b: 0.9622642, a: 1}
-    - _ColorC: {r: 0.051041294, g: 0.1238609, b: 0.2924528, a: 1}
+    - _ColorA: {r: 0, g: 1, b: 0, a: 1}
+    - _ColorB: {r: 0, g: 0, b: 0, a: 1}
+    - _ColorC: {r: 0.5720806, g: 0, b: 0, a: 1}
